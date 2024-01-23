@@ -18,7 +18,6 @@ function App() {
       progress={progress}
     />
     <div className="container">
-      <h2 className='text-center'>Thanks for taking a moment to read my resume</h2>
       <div className="card-group">
         <Sidebar setProgressBar = {setProgressBar}/>
         <Profile setProgressBar = {setProgressBar}/>
