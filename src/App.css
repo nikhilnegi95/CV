@@ -30,42 +30,42 @@
 .contact {
   margin-top: -5px;
 }
-.col-4, .col-8 {
+.col-5, .col-7 {
   padding-right: 0px !important;
   padding-left: 0px !important;
 }
-.col-4 h5{
+.col-5 h5{
   margin-left: -35px;
   margin-right: -35px;
   background: #babdbd;
   padding-left: 18px;
-  font-variant: all-petite-caps;
+  /* font-variant: all-petite-caps; */
 }
 .accolades {
   margin-right: -32px;
 }
-.col-4 .card-header {
+.col-5 .card-header {
   background: #cec7c7;
-  font-variant: petite-caps;
+  /* font-variant: petite-caps; */
 }
-.col-4 .card-body p{
+.col-5 .card-body p{
   margin: 3px;
 }
-.col-8 .card-header {
+.col-7 .card-header {
   background: #babdbd;
-  font-variant: petite-caps;
+  /* font-variant: petite-caps; */
 }
-.col-8 h5 {
+.col-7 h5 {
   background: #cec7c7;
   margin-left: -21px;
   margin-right: -21px;
   padding-left: 18px;
-  font-variant: all-petite-caps;
+  /* font-variant: all-petite-caps; */
 }
 .card-body {
   margin-top: -20px;
 }
-.col-4, .col-8, h5 {
+.col-5, .col-7, h5 {
   color: black;
   /* font-family: fantasy !important; */
 }

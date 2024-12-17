@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Sidebar from './components/Sidebar';
 import Profile from './components/Profile';
@@ -17,7 +16,7 @@ function App() {
       color='#f11946'
       progress={progress}
     />
-    <div className="container">
+    <div className="container-fluid">
       <div className="card-group">
         <Sidebar setProgressBar = {setProgressBar}/>
         <Profile setProgressBar = {setProgressBar}/>
